@@ -1,4 +1,4 @@
-# Rick_and_Morty_test
+# Rick_and_Morty
 
 Aplicación en Django que trae los datos de la api de https://rickandmortyapi.com/api/character y muestra los personajes en cards de bootstrap 5.
 
